@@ -1,0 +1,19 @@
+.cursor-grab {
+  cursor: grab !important;
+}
+
+.cursor-polygon {
+  cursor: crosshair !important;
+}
+
+.cursor-line {
+  cursor: cell !important;
+}
+
+.cursor-point {
+  cursor: pointer !important;
+}
+
+.cursor-crosshair {
+  cursor: crosshair !important;
+}
