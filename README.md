@@ -5,7 +5,7 @@ A single-page React application bootstrapped with Vite that demonstrates basic G
 ## Demo Purpose
 
 This project serves as a demo version of a GIS application with the following goals:
-- Demonstrate the fundamental capabilities of Leaflet.js for interactive mapping
+- Demonstrate the fundamental capabi   lities of Leaflet.js for interactive mapping
 - Showcase how to implement common GIS features in a React application
 - Provide a starting point for developers interested in building their own GIS applications
 - Illustrate best practices for handling geographic data in web applications
